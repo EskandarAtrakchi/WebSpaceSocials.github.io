@@ -89,7 +89,3 @@ Experience the nostalgia of old-school Windows in this section.
 - [Twitter](https://twitter.com/AtrakchiE)
 - [Facebook](https://www.facebook.com/EskandarTech)
 - [GitHub](https://github.com/EskandarAtrakchi?tab=repositories)
-
----
-
-**Note:** This is a Markdown representation of the HTML code provided. Ensure that your GitHub repository contains the necessary file structure and dependencies for the website to function properly.
